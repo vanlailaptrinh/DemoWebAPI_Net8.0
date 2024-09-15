@@ -11,5 +11,5 @@
         public Guid MaHangHoa { get; set; }
 
     }
-    //model
+    //model test
 }
